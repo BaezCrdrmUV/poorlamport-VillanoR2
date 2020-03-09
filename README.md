@@ -8,6 +8,7 @@ Este programa se ejecuta desde la linea de comandos, puede ser desde:
 
 - Visual Code ***Mas recomendado***
 - Terminal ***Linux, MacOS, Windows***
+
 Si esta desde Visual Code solo debe descargar la extencion de *Java* - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack).
 
 Si esta desde una *Terminal* debera utilizar los comandos de *Java*
